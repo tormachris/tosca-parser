@@ -4,7 +4,7 @@ Babel==2.3.4
 cliff==2.8.0
 cmd2==0.8.0
 coverage==4.0
-docutils==0.11
+docutils==0.16
 extras==1.0.0
 fixtures==3.0.0
 flake8==2.5.5
